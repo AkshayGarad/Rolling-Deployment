@@ -1,5 +1,7 @@
 # Rolling Deployment: A Seamless Approach to Software Changes
 
+![Rolling Deployment](https://github.com/AkshayGarad/Rolling-Deployment/blob/main/rolling_deployment.jpg)
+
 ## Introduction
 In the dynamic world of software development, implementing significant changes to an existing system requires careful planning and execution. One deployment approach that has gained traction in recent years is known as "Rolling Deployment." This readme file provides an overview of Rolling Deployment, its advantages, challenges, and best practices for successful implementation.
 
